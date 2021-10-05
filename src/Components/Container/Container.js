@@ -1,14 +1,14 @@
 import React from "react";
 import Banner from "../Banner/Banner";
 import Counter from "../Counter/Counter";
-import DisplayServices from "../DisplayServices/DisplayServices";
+import DisplayCourses from "../DisplayCourses/DisplayCourses";
 
 const Container = () => {
   return (
     <div>
       <Banner></Banner>
       <Counter></Counter>
-      <DisplayServices></DisplayServices>
+      <DisplayCourses></DisplayCourses>
     </div>
   );
 };
