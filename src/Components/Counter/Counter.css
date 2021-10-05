@@ -1,0 +1,8 @@
+/* fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap");
+.counter-text {
+  font-family: "Inconsolata", monospace;
+}
+.counter-text h1 {
+  margin-left: 90px;
+}

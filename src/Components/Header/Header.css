@@ -1,0 +1,9 @@
+.navs {
+  font-size: 100x;
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+.selected {
+  color: red;
+}

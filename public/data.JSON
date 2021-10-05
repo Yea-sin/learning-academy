@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Web Design",
+    "id": 1,
+    "image": "https://cdn.mos.cms.futurecdn.net/CT9xCjqrhnPD4ivB6B8Hqe.jpg",
+    "description": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages.",
+    "fee": 13.99
+  },
+  {
+    "name": "Web Development",
+    "id": 2,
+    "image": "https://www.theblogy.com/wp-content/uploads/2020/06/web-devwlop.png",
+    "description": "Web development refers to building, creating, and maintaining websites. It includes aspects such as web design, web publishing, web programming, and database management. ... These tools make it easy for anyone to create and edit their own website using a web-based interface.",
+    "fee": 19.99
+  },
+  {
+    "name": "Web Design & Development",
+    "id": 3,
+    "image": "https://www.codemithra.com/wp-content/uploads/2020/09/web-design-development-blog-2.jpg",
+    "description": "Web design and development is an umbrella term that describes the process of creating a website. ... Web design determines the look and feel of a website, while web development determines how it functions. Because there isn not always a hard line that separates the two roles, the titles are often used interchangeably.",
+    "fee": 30.99
+  },
+  {
+    "name": "Graphics Design",
+    "id": 4,
+    "image": "https://www.freepik.com/blog/app/uploads/2016/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+    "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users. specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+    "fee": 15.99
+  },
+  {
+    "name": "Python Programming Master Class",
+    "id": 5,
+    "image": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects",
+    "fee": 20.99
+  },
+  {
+    "name": "Digital Marketing",
+    "id": 6,
+    "image": "https://www.simplilearn.com/ice9/webinar_thum_image/Digital_Marketing_Tutorial.jpg",
+    "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+    "fee": 13.99
+  },
+  {
+    "name": "Complete SEO Course",
+    "id": 7,
+    "image": "https://r4ys.com/wp-content/uploads/2020/05/What-is-SEO.png",
+    "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.",
+    "fee": 14.99
+  },
+  {
+    "name": "Cyber Security",
+    "id": 8,
+    "image": "https://s27389.pcdn.co/wp-content/uploads/2021/04/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpeg",
+    "description": "Computer security, cybersecurity or information technology security is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "fee": 18.99
+  },
+  {
+    "name": "Ethical Hacking",
+    "id": 9,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/SE-2-Winds-of-Change-Oct28-6_1.jpeg?grP2P9O5ETJQUYFRCS_hUxcSGrNHzoin&size=770:433",
+    "description": "Certified Ethical Hacker is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems, using the ...",
+    "fee": 23.99
+  },
+  {
+    "name": "Computer Networking Fundamentals",
+    "id": 10,
+    "image": "https://i.pinimg.com/736x/c6/77/cd/c677cd0309895d4f832888729531609d--computer-network-solution.jpg",
+    "description": "Networking Fundamentals is a course for non-technical people. It is designed to provide a broad understanding of the basics of computer networks for Sales and Merchandising employees.",
+    "fee": 10.99
+  }
+]

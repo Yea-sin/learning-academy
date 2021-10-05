@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Web Design & Development",
+    "id": 3,
+    "image": "https://www.codemithra.com/wp-content/uploads/2020/09/web-design-development-blog-2.jpg",
+    "description": "Web design and development is an umbrella term that describes the process of creating a website. ... Web design determines the look and feel of a website, while web development determines how it functions. Because there isn not always a hard line that separates the two roles, the titles are often used interchangeably.",
+    "fee": 30.99
+  },
+  {
+    "name": "Digital Marketing",
+    "id": 6,
+    "image": "https://www.simplilearn.com/ice9/webinar_thum_image/Digital_Marketing_Tutorial.jpg",
+    "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+    "fee": 13.99
+  },
+  {
+    "name": "Ethical Hacking",
+    "id": 9,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/SE-2-Winds-of-Change-Oct28-6_1.jpeg?grP2P9O5ETJQUYFRCS_hUxcSGrNHzoin&size=770:433",
+    "description": "Certified Ethical Hacker is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems, using the ...",
+    "fee": 23.99
+  }
+]
