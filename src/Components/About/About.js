@@ -19,6 +19,9 @@ const About = () => {
           the modern workplace.
         </p>
       </div>
+      <div>
+        <h2 className="text-info">Join Us</h2>
+      </div>
     </div>
   );
 };
